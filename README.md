@@ -15,7 +15,6 @@ El objetivo principal del proyecto es desarrollar una calculadora que interprete
 
 - Compuertas lógicas CMOS y TTL
 - Simulaciones realizadas con herramientas como Logic.ly
-- Diseño asistido por computadora para la creación de circuitos impresos
 
 ## Autores
 
