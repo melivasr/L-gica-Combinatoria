@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene todos los documentos relacionados con el proyecto de la Calculadora Tomógrafo, desarrollado como parte del curso de Fundamentos de Arquitectura de Computadores. Este proyecto implica el diseño e implementación de un circuito combinatorio que puede detectar la presencia de dedos usando un arreglo de LEDs y fotoreceptores.
+Este repositorio contiene los documentos relacionados con el proyecto de la Calculadora Tomógrafo, desarrollado como parte del curso de Fundamentos de Arquitectura de Computadores. Este proyecto implica el diseño e implementación de un circuito combinatorio que puede detectar la presencia de dedos usando un arreglo de LEDs y fotoreceptores.
 
 ## Contenido del Repositorio
 
